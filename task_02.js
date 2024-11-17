@@ -1,0 +1,1 @@
+// 2. You are checking items in stock. If you find any item marked "out of stock", stop checking further. Use break to exit the loop when found.
